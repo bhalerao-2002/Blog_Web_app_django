@@ -1,6 +1,6 @@
 # Django_blog
-blog website using django framework also provided admin panel , where you can control , write and modify blogs ..
 
+The Django_blog project is a blog website developed using the Django framework. It includes an admin panel that allows users to control, write, and modify blog posts. By cloning the project and following a few setup steps, users can run the project locally. The website provides a platform for publishing and managing blog content. Additionally, it offers an admin interface for creating and editing blog posts. With Django_blog, users can easily create, update, and delete blog posts to share their thoughts and engage with readers.
 
 ### To run this project 
 
